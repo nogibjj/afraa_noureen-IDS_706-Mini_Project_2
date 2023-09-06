@@ -1,4 +1,4 @@
-# IDS_706-Data_Engineering_Systems
+# IDS_706-Data_Engineering_Systems : Mini-Project 2
 
 ### This repository is a template for Python projects.
 [![CI](https://github.com/afraa-n/IDS_706-Data_Engineering_Systems/actions/workflows/cicd.yml/badge.svg)](https://github.com/afraa-n/IDS_706-Data_Engineering_Systems/actions/workflows/cicd.yml)
