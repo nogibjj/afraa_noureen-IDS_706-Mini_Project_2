@@ -1,14 +1,10 @@
 """main module"""
-import platform
+import pandas as pd
 
-def display_system_info():
+def display_movies_stats():
     """
-    Display system information including the OS and hardware details.
-
-    :return: A string containing system information.
+    Display basic info about movies dataset
     """
-    system_info = f"Operating System: {platform.system()} {platform.release()}\n"
-    system_info += f"Node Name: {platform.node()}\n"
-    system_info += f"Processor: {platform.processor()}\n"
-    system_info += f"Architecture: {platform.architecture()[0]}\n"
-    return system_info
+    df = pd.read_csv("MoviesTopRated")
+    def.head()
+    return def.shape

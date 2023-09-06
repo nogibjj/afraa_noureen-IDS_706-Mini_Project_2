@@ -3,6 +3,6 @@ import main
 
 def test_main():
     '''
-    testing function for system
+    testing function for main
     '''
-    assert len(main.display_system_info()) != 0
+    assert display_movies_stats() != 0
