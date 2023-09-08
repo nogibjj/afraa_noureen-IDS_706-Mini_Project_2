@@ -1,6 +1,6 @@
 # IDS_706-Data_Engineering_Systems : Mini-Project 2
 
-[![CI](https://github.com/afraa-n/IDS_706-Data_Engineering_Systems/actions/workflows/cicd.yml/badge.svg)](https://github.com/afraa-n/IDS_706-Data_Engineering_Systems/actions/workflows/cicd.yml)
+[![CI](https://github.com/afraa-n/IDS_706-Mini_Project_2/actions/workflows/cicd.yml/badge.svg)](https://github.com/afraa-n/IDS_706-Mini_Project_2/actions/workflows/cicd.yml)
 
 ***
 
