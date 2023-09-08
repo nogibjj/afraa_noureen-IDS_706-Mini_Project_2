@@ -1,9 +1,10 @@
 """main module"""
 import pandas as pd
 
-def display_movies_stats():
+def display_highest_votes():
     """
     Display basic info about movies dataset
     """
-    df = pd.read_csv("MoviesTopRated.csv")
-    return df.loc[0,'vote_average']
+    data_f = pd.read_csv("MoviesTopRated.csv")
+    new_df = data_f.query('vote_average == vote_average.max()')
+    return new_df

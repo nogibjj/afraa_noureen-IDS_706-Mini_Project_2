@@ -5,5 +5,11 @@ def test_main():
     '''
     testing function for main
     '''
-    new_vote_avg = main.display_movies_stats()
-    assert new_vote_avg == 8.7
+    highest_votes = main.display_highest_votes()
+    #print(highest_votes.loc[0,"vote_count"])
+    assert highest_votes.loc[0,"vote_count"] == 18448
+    #print(highest_votes.loc[1,"vote_count"])
+    assert highest_votes.loc[1,"vote_count"] == 24376
+
+if __name__ == "__main__":
+    test_main()
