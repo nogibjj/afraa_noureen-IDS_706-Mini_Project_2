@@ -1,7 +1,6 @@
 # IDS_706 - Data Engineering Systems 
 ## Mini-Project 2 : Pandas Descriptive Statistics Script
 
-[![CI](https://github.com/afraa-n/IDS_706-Mini_Project_2/actions/workflows/cicd.yml/badge.svg)](https://github.com/afraa-n/IDS_706-Mini_Project_2/actions/workflows/cicd.yml)
 [![CI/CD](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/actions/workflows/cicd.yml)
 ***
 
