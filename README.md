@@ -24,16 +24,17 @@ To run the project, you can use the Makefile and follow these commands:
    make install
    ```
 2. ```
+   # To check code style
+   make lint
+   ```
+3. ```
    # To run tests
    make test
    ```
-3. ```
+4. ```
    # To format the code
    make format
    ```
-4. ```
-   # To check code style
-   make lint
 5. ```
    # To perform all the above tasks (install, test, format, lint)
    make all
