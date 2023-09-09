@@ -60,7 +60,7 @@ To run the project, you can use the Makefile and follow these commands:
 
 ### Output from test_main.py
 
-On running test_main.py, it displays the descriptive statistics from the dataset as well as the top rated movies. It also ensures that there is a valid value returned from display_highest_votes() (from main.py) using the assert function.
+On running test_main.py, it displays the descriptive statistics from the dataset as well as the top rated movies. It also ensures that there is a valid value returned from display_highest_votes() (from main.py) using the assert statement.
 
 ![test_main](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/8258a08c-2b19-464b-9e7d-b01ed3870adf)
 
