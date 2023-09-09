@@ -12,13 +12,20 @@ The core functionality of this project involves identifying and presenting the m
 
 The accompanying Makefile automates essential development tasks, making it easier for developers to maintain code quality, run tests, and streamline the development workflow.
 
-Dataset used: Top-Rated Movies Data Set
-
-***
+Dataset used: [Top-Rated Movies Data Set](https://www.kaggle.com/datasets/khalidalam980/top-rated-movies-data-set)
 
 ***
 
 #### Steps to run the repo
 
+1. [ ] run make install
+
+2. [ ] run make test
+
+3. [ ] run make format
+  
+4. [ ] run make lint
+  
+5. [ ] run make all
 
 ***
