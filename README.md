@@ -2,7 +2,7 @@
 ## Mini-Project 2 : Pandas Descriptive Statistics Script
 
 [![CI](https://github.com/afraa-n/IDS_706-Mini_Project_2/actions/workflows/cicd.yml/badge.svg)](https://github.com/afraa-n/IDS_706-Mini_Project_2/actions/workflows/cicd.yml)
-![example workflow](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/actions/workflows/cicd.yml/badge.svg)
+[![CI/CD](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/actions/workflows/cicd.yml)
 ***
 
 ### Goal of the Project
