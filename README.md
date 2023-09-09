@@ -38,10 +38,29 @@ To run the project, you can use the Makefile and follow these commands:
    # To perform all the above tasks (install, test, format, lint)
    make all
    ```
+
 ***
 
 ### Result
 
-1. On running ```make test```, it passes the test:
+1. On running ```make lint```:
+
+![make lint](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/5c6d0c64-96d7-4860-aea1-7a65990d3ae8)
+
+2. On running ```make test```, it passes the test:
 
 ![make test](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/099f4e59-e08c-48b8-8a46-93bdf96c0846)
+
+3. On running ```make format```, we get the following:
+
+![make format](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/af82026d-b8d0-44ac-a9ca-342f73be980a)
+
+***
+
+### Output from test_main.py
+
+On running test_main.py, it displays the descriptive statistics from the dataset as well as the top rated movies. It also ensures that there is a valid value returned from the display_highest_votes() (from main.py) using the assert function.
+
+![test_main](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/8258a08c-2b19-464b-9e7d-b01ed3870adf)
+
+***
