@@ -1,11 +1,10 @@
-# IDS_706-Data_Engineering_Systems
-## Mini-Project 2 : Pandas Descriptive Statistics Script
+# IDS_706-Data_Engineering_Systems -- Mini-Project 2 : Pandas Descriptive Statistics Script
 
 [![CI](https://github.com/afraa-n/IDS_706-Mini_Project_2/actions/workflows/cicd.yml/badge.svg)](https://github.com/afraa-n/IDS_706-Mini_Project_2/actions/workflows/cicd.yml)
 
 ***
 
-#### Goal of the Project
+### Goal of the Project
 This project modifies an existing Github template by handling the loading and manipulation of a movie dataset stored in a .csv file using the Pandas library. This entails extracting meaningful insights from the dataset by generating descriptive statistics.
 
 The core functionality of this project involves identifying and presenting the movies with the highest ratings from the dataset. 
@@ -16,7 +15,7 @@ Dataset used: [Top-Rated Movies Data Set](https://www.kaggle.com/datasets/khalid
 
 ***
 
-#### Commands to run the repo
+### Commands to run the repo
 
 To run the project, you can use the Makefile and follow these commands:
 1. ```
