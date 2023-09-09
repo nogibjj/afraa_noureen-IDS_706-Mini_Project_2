@@ -20,9 +20,11 @@ Dataset used: [Top-Rated Movies Data Set](https://www.kaggle.com/datasets/khalid
 
 To run the project, you can use the Makefile and follow these commands:
 1. ```
-   #To install the required the packages
+   # To install the required the python packages
    make install
+   ```
 2. ```
+   # To run test_main.py with the sample test case
    make test
 3. ```
    make format
@@ -30,5 +32,4 @@ To run the project, you can use the Makefile and follow these commands:
    make lint
 5. ```
    make all
-
 ***
