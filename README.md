@@ -18,7 +18,9 @@ Dataset used: [Top-Rated Movies Data Set](https://www.kaggle.com/datasets/khalid
 
 #### Commands to run the repo
 
+To run the project, you can use the Makefile and follow these commands:
 1. ```
+   #To install the required the packages
    make install
 2. ```
    make test
