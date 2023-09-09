@@ -26,10 +26,16 @@ To run the project, you can use the Makefile and follow these commands:
 2. ```
    # To run test_main.py with the sample test case
    make test
+   ```
 3. ```
+   # To format the code
    make format
+   ```
 4. ```
+   # To check code style
    make lint
 5. ```
+   # To perform all the above tasks (install, test, format, lint)
    make all
+   ```
 ***
