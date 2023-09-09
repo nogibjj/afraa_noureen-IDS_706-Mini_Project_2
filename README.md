@@ -6,7 +6,7 @@
 ***
 
 ### Goal of the Project
-Mini-Project 2 modifies this [existing Github template](https://github.com/afraa-n/IDS_706-Data_Engineering_Systems) by handling the loading and manipulation of a movie dataset stored in a .csv file using the Pandas library. This entails extracting meaningful insights from the dataset by generating descriptive statistics.
+Mini-Project 2 modifies this [existing Github template](https://github.com/afraa-n/IDS_706-Data_Engineering_Systems) by handling the loading and manipulation of a movies dataset stored in a `.csv` file using the Pandas library. This entails extracting meaningful insights from the dataset by generating descriptive statistics.
 
 The core functionality of this project involves identifying and presenting the movies with the highest ratings from the dataset. 
 
