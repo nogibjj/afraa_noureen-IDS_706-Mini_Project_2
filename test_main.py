@@ -12,6 +12,5 @@ def test_main():
     # print(highest_votes.loc[1,"vote_count"])
     assert highest_votes.loc[1, "vote_count"] == 24376
 
-
 if __name__ == "__main__":
     test_main()
