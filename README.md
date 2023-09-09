@@ -20,7 +20,9 @@ Dataset used: [Top-Rated Movies Data Set](https://www.kaggle.com/datasets/khalid
 
 1. ```
    make install
-   ```
+   make test
+   make lint
+2. ```
 
 3. [ ] run make test
 
