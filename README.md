@@ -16,7 +16,7 @@ Dataset used: [Top-Rated Movies Data Set](https://www.kaggle.com/datasets/khalid
 
 ***
 
-### Commands to run the repo
+### Commands to Run the Repo
 
 To run the project, you can use the Makefile and follow these commands:
 1. ```
@@ -51,7 +51,7 @@ To run the project, you can use the Makefile and follow these commands:
 
 ![make test](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/099f4e59-e08c-48b8-8a46-93bdf96c0846)
 
-3. On running ```make format```, we get the following:
+3. On running ```make format```:
 
 ![make format](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/af82026d-b8d0-44ac-a9ca-342f73be980a)
 
