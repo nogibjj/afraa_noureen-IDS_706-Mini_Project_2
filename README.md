@@ -24,7 +24,7 @@ To run the project, you can use the Makefile and follow these commands:
    make install
    ```
 2. ```
-   # To run test_main.py with the sample test case
+   # To run tests
    make test
    ```
 3. ```
