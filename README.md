@@ -39,3 +39,9 @@ To run the project, you can use the Makefile and follow these commands:
    make all
    ```
 ***
+
+### Result
+
+1. On running ```make test```, it passes the test:
+
+![make test](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/099f4e59-e08c-48b8-8a46-93bdf96c0846)
