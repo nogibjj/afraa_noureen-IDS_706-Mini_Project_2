@@ -19,7 +19,7 @@ def display_highest_votes():
         xlabel="Popularity",
         ylabel="Average Ratings out of 10",
     )
-    print(plt.show())
+    plt.show()
     print("\nDetails of the movies that were given the highest votes are: \n")
     print(vote_df)
     pdf_report_generator(movies_df)
