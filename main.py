@@ -1,7 +1,7 @@
 """main module"""
 import pandas as pd
 import matplotlib.pyplot as plt
-from pandas_profiling import ProfileReport
+import pandas_profiling as papr
 
 def display_highest_votes():
     """
@@ -25,5 +25,7 @@ def display_highest_votes():
     return vote_df
 
 def pdf_report_generator(df):
-    report = ProfileReport(df)
+    report = papr.ProfileReport(df, title = "Summary Report")
+    report.to_notebook_iframe()
     report.to_file('summary_report.pdf')
+    
