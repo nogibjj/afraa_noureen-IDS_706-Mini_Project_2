@@ -46,22 +46,29 @@ To run the project, you can use the Makefile and follow these commands:
 
 1. On running ```make lint```:
 
-![make lint](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/5c6d0c64-96d7-4860-aea1-7a65990d3ae8)
+![make lint](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/ea6d3f8b-e4ad-46d1-ad62-0d8bef14971f)
+
 
 2. On running ```make test```, it passes the test:
 
-![make test](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/099f4e59-e08c-48b8-8a46-93bdf96c0846)
+![make test](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/ab0e7d9a-4fc2-48ec-8889-5391c69a3503)
+
 
 3. On running ```make format```:
 
-![make format](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/af82026d-b8d0-44ac-a9ca-342f73be980a)
+![make format](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/d66deb88-4408-486d-b7f7-1183c9979995)
 
 ***
 
 ### Output from test_main.py
 
-On running test_main.py, it displays the descriptive statistics from the dataset as well as the top rated movies. It also ensures that there is a valid value returned from display_highest_votes() (from main.py) using the assert statement.
+On running test_main.py, it displays the descriptive statistics from the dataset as well as the top rated movies. This file generates and displays the plot for popularity vs vote_average. It also ensures that there is a valid value returned from display_highest_votes() (from main.py) using the assert statement.
 
-![test_main](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/8258a08c-2b19-464b-9e7d-b01ed3870adf)
+![test_main 1](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/5c6f1802-185b-4b43-9f25-a4da4ca28dfc)
+![test_main 2](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/0dfdd41e-b5d3-4677-9481-5a1e3386c452)
+
+### Data Visualization (popularity vs vote_average scatter plot)
+
+![graph](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/476e7e81-f410-4eda-88d8-a4c3b94ef922)
 
 ***
