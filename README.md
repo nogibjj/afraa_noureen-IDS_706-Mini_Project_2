@@ -67,6 +67,8 @@ On running test_main.py, it displays the descriptive statistics from the dataset
 ![test_main 1](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/5c6f1802-185b-4b43-9f25-a4da4ca28dfc)
 ![test_main 2](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/0dfdd41e-b5d3-4677-9481-5a1e3386c452)
 
+***
+
 ### Data Visualization (popularity vs vote_average scatter plot)
 
 ![graph](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/476e7e81-f410-4eda-88d8-a4c3b94ef922)
