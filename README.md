@@ -12,7 +12,7 @@ This entails extracting meaningful insights from the dataset by generating descr
 
 The accompanying Makefile automates essential development tasks, making it easier for developers to maintain code quality, run tests, and streamline the development workflow.
 
-Note: Summary Report on the dataset is generated as an `html` file.
+Note: Summary Report on the dataset is generated as an `html` file. 
 Dataset used: [Top-Rated Movies Data Set](https://www.kaggle.com/datasets/khalidalam980/top-rated-movies-data-set)
 
 ***
