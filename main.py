@@ -1,7 +1,7 @@
 """main module"""
 import pandas as pd
 import matplotlib.pyplot as plt
-
+from pandas_profiling import ProfileReport
 
 def display_highest_votes():
     """
@@ -21,4 +21,9 @@ def display_highest_votes():
     print(plt.show())
     print("\nDetails of the movies that were given the highest votes are: \n")
     print(vote_df)
+    pdf_report_generator(movies_df)
     return vote_df
+
+def pdf_report_generator(df):
+    report = ProfileReport(df)
+    report.to_file('summary_report.pdf')
