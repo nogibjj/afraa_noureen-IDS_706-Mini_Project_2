@@ -28,4 +28,4 @@ def display_highest_votes():
 
 def pdf_report_generator(df):
     profile = ProfileReport(df, title="Summary Report")
-    profile.to_file("Summary_Report")
+    profile.to_file("Summary_Report.html")
