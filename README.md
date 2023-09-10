@@ -48,17 +48,15 @@ To run the project, you can use the Makefile and follow these commands:
 
 1. On running ```make lint```:
 
-![make lint](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/ea6d3f8b-e4ad-46d1-ad62-0d8bef14971f)
-
+![make lint](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/0d61460a-1e5e-434d-ab62-2e067781663d)
 
 2. On running ```make test```, it passes the test:
 
-![make test](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/ab0e7d9a-4fc2-48ec-8889-5391c69a3503)
-
+![make test](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/fc55736c-ab86-4b7e-95f6-4c695adc1c37)
 
 3. On running ```make format```:
 
-![make format](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/d66deb88-4408-486d-b7f7-1183c9979995)
+![make format](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/e9f384ce-2d4b-49e4-af50-bec7981e76d7)
 
 ***
 
