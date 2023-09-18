@@ -71,6 +71,6 @@ On running test_main.py, it displays the descriptive statistics from the dataset
 
 ### Data Visualization (popularity vs vote_average scatter plot)
 
-![graph](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/476e7e81-f410-4eda-88d8-a4c3b94ef922)
+![image](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_2/assets/143756865/a66dc320-62f9-404c-bd46-e0a1a628feb1)
 
 ***
